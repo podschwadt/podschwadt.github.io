@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assitant Research Professor at Old Dominion University since January 2024. My research focuses on Privacy-Preserving Machine Learning using Homomorphic Encryption. For an overview on the topic <a href='https://ieeexplore.ieee.org/document/9936637'>have a look at this paper</a>. I focus on the usability and 
+I have been an Assitant Research Professor at Old Dominion University since January 2024. My research focuses on Privacy-Preserving Machine Learning using Homomorphic Encryption. For an overview on the topic <a href='https://ieeexplore.ieee.org/document/9936637'>have a look at this paper</a>. I focus on the usability and 
 efficiency on HE-based machine learning.
 
-I got my Ph.D. in Computer Science from Georgia State University in 2023.
+I got my Ph.D. in Computer Science from Georgia State University in 2024.
 
 From 2012-2017 I was a system developer with Sirrix, now <a href='https://www.rohde-schwarz.com/us/solutions/cybersecurity'>Rohde & Schwarz Cybersecuiryt</a>.
